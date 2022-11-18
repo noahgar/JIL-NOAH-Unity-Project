@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Noah/Noah.unity
+    guid: df2da10c626d3dd40aa5ce31f0120256
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 6529cffadd176e945a4a5c99229de9a0, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ce695a3d9ec21884398b5a3b908cd22b, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: cab5ccd3dc01fef4bafff5bc40cf64a9, type: 2}
